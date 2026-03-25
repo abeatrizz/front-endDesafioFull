@@ -32,6 +32,6 @@ Para rodar este projeto localmente no seu computador, siga estes passos baseados
 ### 💡 Fluxo de Atualização (Git)
 Sempre que fizer melhorias neste documento, utilize o comando de registro e envio para a nuvem:
 
-**`git add README.md`**: Adiciona o arquivo à área de espera (Staging Area)[cite: 22, 216].
+**`git add README.md`**: Adiciona o arquivo à área de espera (Staging Area).
 **`git commit -m "docs: estruturando readme de apresentação"`**: Salva a mudança localmente com uma mensagem clara.
 **`git push origin main`**: Envia a versão final para o seu perfil online no GitHub.
